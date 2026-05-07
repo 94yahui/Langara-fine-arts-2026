@@ -1,40 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
 
-## Getting Started
+# Langara Fine Arts Showcase 2026
 
-First, run the development server:
+A high-performance web platform built for the **Langara College Fine Arts Department** to showcase the 2026 Graduate Exhibition. This repository serves as a professional record of my contributions as a developer and deployment lead.
 
-```bash
-npm install
+[**🔗 View Live Demo**](https://langarafinagradshow.com/)
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 My Key Contributions
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+During my tenure from **January to April 2026**, I spearheaded the following technical areas:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### 1. Deployment & Infrastructure (DevOps)
+*   **Netlify CI/CD:** Architected and managed the end-to-end deployment pipeline for the latest showcase.
+*   **AWS Management:** Handled the technical upkeep of historical archives on **AWS EC2**, ensuring legacy exhibition data remains accessible and secure.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 2. Full-stack Development
+*   **Architecture:** Leveraged **React** and **Next.js** to build a scalable, SEO-friendly showcase platform.
+*   **Image Optimization:** Implemented advanced image rendering techniques to handle high-resolution artwork without compromising page load speeds.
+*   **Responsive UI:** Designed and developed a mobile-first interface using **Tailwind CSS**, ensuring a seamless experience across all devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🧰 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js |
+| **Infrastructure** | Netlify (CI/CD), AWS EC2 (Archival) |
+| **Design** | Figma |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 Getting Started
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. **Clone the project**
+   ```bash
+   git clone [https://github.com/94yahui/Langara-fine-arts-2026.git](https://github.com/94yahui/Langara-fine-arts-2026.git)
