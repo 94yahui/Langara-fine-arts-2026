@@ -1,10 +1,8 @@
----
-
 # Langara Fine Arts Showcase 2026
 
 A high-performance web platform built for the **Langara College Fine Arts Department** to showcase the 2026 Graduate Exhibition. This repository serves as a professional record of my contributions as a developer and deployment lead.
 
-[**🔗 View Live Demo**](https://langarafinagradshow.com/)
+[**🌐 Visit Official Exhibition Site**](https://langarafinagradshow.com/)
 
 ---
 
