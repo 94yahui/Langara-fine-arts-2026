@@ -23,17 +23,6 @@ During my tenure from **January to April 2026**, I spearheaded the following tec
 
 ---
 
-## 🧰 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js |
-| **Infrastructure** | Netlify (CI/CD), AWS EC2 (Archival) |
-| **Design** | Figma |
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the project**
