@@ -25,4 +25,4 @@ During my tenure from **January to April 2026**, I spearheaded the following tec
 
 1. **Clone the project**
    ```bash
-   git clone [https://github.com/94yahui/Langara-fine-arts-2026.git](https://github.com/94yahui/Langara-fine-arts-2026.git)
+   git clone https://github.com/94yahui/Langara-fine-arts-2026.git
